@@ -1,6 +1,6 @@
 # Programming Test
 
-Given the following input array of people, please complete task 1 - 3. You should use functional programming and JavaScript and preferably a TDD approach to complete the tasks. Feel free to use lodash, ramda or underscore.
+Given the following input array of people, please complete task 1 - 3. You should use functional programming and JavaScript and preferably a TDD approach to complete the tasks. Please use yarn as package manager, meaningful commit messages and create simple, modular code with functions (preferably modern ES6 JS).
 Tests can be written using mocha, chai or jest.
 
 Nice-To-Have's:
@@ -65,5 +65,3 @@ For Louis the result would be:
   ]
 }
 ```
-
-### 3. Write tests for each function that you've written
